@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Docker, Airflow, AWS**
 
-💬 Ask me about **Data Analytics, Power BI, Machine Learning, Statistics... or anything [here]([https://github.com/salesp07/salesp07/issues](https://github.com/vikassabbani/vikassabbani/issues))**
+💬 Ask me about **Data Analytics, Power BI, Machine Learning, Statistics... or anything [here](https://github.com/vikassabbani/vikassabbani/issues)**
 
  </div>
  

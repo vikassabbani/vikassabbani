@@ -4,13 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sree+Vikas!;" />
 </h1>
 
-<h3 align="center">I'm a passionate data professional. I love exploring different aspects of data to help make better decisions.l</h3>
+<h3 align="center">I'm a passionate data professional. I love exploring different aspects of data to help make better decisions.</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
  
  🌱 I’m currently learning **Docker, Airflow, AWS**
 
